@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Albert+Sans:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&family=Zalando+Sans+Expanded:ital,wght@0,200..900;1,200..900&display=swap");
+
+@import "tailwindcss";
+
+body {
+  font-family: "Zalando Sans Expanded", sans-serif;
+}
+
+.auth-box {
+  @apply bg-[#151552] w-[80%] h-auto mt-10 p-10 text-white
+  rounded-lg items-center flex flex-col;
+}
