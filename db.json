@@ -153,19 +153,6 @@
       "phone": "0505667743",
       "email": "kedi@gmail.com",
       "owner": "me"
-    },
-    {
-      "id": "13f1",
-      "name": "kıvırcık",
-      "type": "köpek",
-      "status": "lost",
-      "city": "izmir",
-      "gender": "erkek",
-      "description": "en son foça sahilde görüldü",
-      "image": "https://i.pinimg.com/736x/16/b7/5b/16b75be242f6d2e68f6ae72a81925ba7.jpg",
-      "phone": "0505667743",
-      "email": "kopek@gmail.com",
-      "owner": "me"
     }
   ]
 }
