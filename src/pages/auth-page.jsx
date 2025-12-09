@@ -1,10 +1,10 @@
 import {useState} from "react";
 import MainPhoto from "../components/main/main-photo";
-import SignIn from "../components/main/sign-in";
 import SignUp from "../components/main/sign-up";
+import SignIn from "../components/main/sign-in";
 
 const AuthPage = () => {
-  const [isSignUp, setIsSignUp] = useState(false);
+  const [isSignUp, setIsSignUp] = useState(true);
 
   return (
     <div className="min-h-screen flex flex-col md:flex-row bg-[#27277d]">
